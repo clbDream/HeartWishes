@@ -1,0 +1,14 @@
+<tabs>
+    <tab
+        id="@+id/home"
+        icon="@drawable/home"
+        title="首页" />
+    <tab
+        id="@+id/more"
+        icon="@drawable/more"
+        title="心声" />
+    <tab
+        id="@+id/me"
+        icon="@drawable/me"
+        title="我" />
+</tabs>
