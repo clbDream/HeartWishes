@@ -6,12 +6,16 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.avos.avoscloud.AVException;
+import com.avos.avoscloud.AVObject;
+import com.avos.avoscloud.SaveCallback;
 import com.clb.heartwishes.R;
 import com.clb.heartwishes.fragments.BaseFragment;
 import com.clb.heartwishes.fragments.HomeFragment;
@@ -26,7 +30,7 @@ import java.util.List;
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 
-public class MainActivity extends AppCompatActivity {
+public class HomeActivity extends AppCompatActivity {
 
     @InjectView(R.id.toolbar)
     Toolbar toolbar;
@@ -52,6 +56,18 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ButterKnife.inject(this);
+
+        /*// 测试 SDK 是否正常工作的代码
+        AVObject testObject = new AVObject("TestObject");
+        testObject.put("words","Hello World!");
+        testObject.saveInBackground(new SaveCallback() {
+            @Override
+            public void done(AVException e) {
+                if(e == null){
+                    Log.d("saved","success!");
+                }
+            }
+        });*/
 
 //        initAnimation();
         initFragment();
