@@ -42,6 +42,7 @@
         <activity
             android:name="com.avos.avoscloud.feedback.ThreadActivity" >
         </activity>
+        <activity android:name=".activitys.MyHeartWishesActivity" />
         <!-- 反馈组件 END -->
 
     </application>
