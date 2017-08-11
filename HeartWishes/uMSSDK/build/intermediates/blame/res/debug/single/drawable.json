@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_down.xml",
+        "source": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\exploded-aar\\HeartWishes\\mobDependency\\unspecified\\res\\drawable\\smssdk_country_group_scroll_down.xml"
+    },
+    {
+        "merged": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_up.xml",
+        "source": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\exploded-aar\\HeartWishes\\mobDependency\\unspecified\\res\\drawable\\smssdk_country_group_scroll_up.xml"
+    }
+]

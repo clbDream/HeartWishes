@@ -1,1 +1,4 @@
-include ':app'
+include ':heartWishes'
+include ':mobDependency'
+include ':uMSSDK'
+include ':uMSSDKGUI'

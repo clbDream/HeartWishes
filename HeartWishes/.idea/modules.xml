@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HeartWishes.iml" filepath="$PROJECT_DIR$/HeartWishes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heartWishes/heartWishes.iml" filepath="$PROJECT_DIR$/heartWishes/heartWishes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobDependency/mobDependency.iml" filepath="$PROJECT_DIR$/mobDependency/mobDependency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uMSSDK/uMSSDK.iml" filepath="$PROJECT_DIR$/uMSSDK/uMSSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uMSSDKGUI/uMSSDKGUI.iml" filepath="$PROJECT_DIR$/uMSSDKGUI/uMSSDKGUI.iml" />
     </modules>
   </component>
 </project>

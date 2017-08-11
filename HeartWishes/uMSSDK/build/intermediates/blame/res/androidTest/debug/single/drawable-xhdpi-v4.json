@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_title_div.png",
+        "source": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\exploded-aar\\HeartWishes\\mobDependency\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_logo.png",
+        "source": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\exploded-aar\\HeartWishes\\mobDependency\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_logo.png"
+    },
+    {
+        "merged": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_back_arr.png",
+        "source": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\exploded-aar\\HeartWishes\\mobDependency\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ssdk_auth_title_back.png",
+        "source": "D:\\clbGithub\\HeartWishes\\HeartWishes\\uMSSDK\\build\\intermediates\\exploded-aar\\HeartWishes\\mobDependency\\unspecified\\res\\drawable-xhdpi-v4\\ssdk_auth_title_back.png"
+    }
+]
